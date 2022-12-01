@@ -1,8 +1,10 @@
 ### Hi there 👋
-[![Jayneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayneelvanmali)](https://github.com/jayneelvanmali/github-readme-stats)
+[![Jayneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayneelvanmali&show_icons=true)](https://github.com/jayneelvanmali/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayneelvanmali&repo=Data-Science)](https://github.com/jayneelvanmali/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayneelvanmali)](https://github.com/jayneelvanmali/github-readme-stats)
 <!--
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=yadavgaurav251&count_private=true&show_icons=true&theme=dark)](https://github.com/yadavgaurav251/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavgaurav251&theme=dark&layout=compact)](https://github.com/yadavgaurav251/github-readme-stats)
+
 **jayneelvanmali/jayneelvanmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
